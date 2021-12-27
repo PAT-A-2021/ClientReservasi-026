@@ -120,5 +120,10 @@ namespace ClientReservasi_026
             btnSimpan.Enabled = false;
             tbID.Enabled = false;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
